@@ -685,6 +685,7 @@
 .u-section-4 .u-image-1 {
   width: 808px;
   --radius: 10px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
 }
 
 @media (max-width: 991px) {
